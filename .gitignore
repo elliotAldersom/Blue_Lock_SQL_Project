@@ -1,0 +1,24 @@
+# Variables de entorno (secretos)
+*.env
+.env.*
+!.env.example
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+
+# Herramientas locales
+.engram
+odd/
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
