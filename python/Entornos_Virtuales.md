@@ -88,6 +88,15 @@ python -m venv --upgrade-deps .venv
 source .venv/bin/activate
 ```
 
+### Ejemplo simple (Windows)
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+
+# -- comprobar su activación
+Get-Command python
+```
+
 ### Desglose del comando
 
 | Parte | Qué significa | Por qué se usa |
