@@ -1,3 +1,0 @@
-USE TiendaLogistica; 
-GO
-
