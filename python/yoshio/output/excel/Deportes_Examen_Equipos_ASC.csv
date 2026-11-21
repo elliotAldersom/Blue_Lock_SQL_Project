@@ -1,0 +1,501 @@
+id_partido,fecha,equipo,jugador,posicion,minutos_jugados,goles,asistencias,tarjetas,resultado_equipo,horas_jugadas,name_mes,name_day,idx_day
+8215,2025-06-05,Atlético Costa,Jugador_042,Delantero,90,3,1,0,Victoria,1.5,June,Thursday,4
+8155,2025-08-19,Atlético Costa,Jugador_035,Delantero,75,3,1,0,Empate,1.25,August,Tuesday,2
+8156,2025-10-27,Atlético Costa,Jugador_033,Delantero,90,3,1,0,Empate,1.5,October,Monday,1
+8134,2025-07-20,Atlético Costa,Jugador_046,Delantero,60,2,1,1,Derrota,1.0,July,Sunday,7
+8352,2025-08-04,Atlético Costa,Jugador_014,Delantero,60,1,0,0,Derrota,1.0,August,Monday,1
+8194,2025-08-19,Atlético Costa,Jugador_052,Delantero,90,1,0,0,Empate,1.5,August,Tuesday,2
+8151,2025-08-22,Atlético Costa,Jugador_017,Delantero,90,1,1,0,Empate,1.5,August,Friday,5
+8346,2025-10-06,Atlético Costa,Jugador_023,Delantero,90,1,0,0,Empate,1.5,October,Monday,1
+8348,2025-03-16,Atlético Costa,Jugador_045,Defensa,90,0,0,0,Victoria,1.5,March,Sunday,7
+8398,2025-03-22,Atlético Costa,Jugador_009,Arquero,90,0,0,0,Empate,1.5,March,Saturday,6
+8091,2025-03-22,Atlético Costa,Jugador_047,Defensa,30,0,1,1,Empate,0.5,March,Saturday,6
+8254,2025-03-25,Atlético Costa,Jugador_052,Defensa,90,0,0,1,Empate,1.5,March,Tuesday,2
+8315,2025-03-28,Atlético Costa,Jugador_046,Defensa,60,0,0,0,Derrota,1.0,March,Friday,5
+8140,2025-04-03,Atlético Costa,Jugador_007,Arquero,90,0,0,0,Victoria,1.5,April,Thursday,4
+8249,2025-04-09,Atlético Costa,Jugador_060,Defensa,90,0,0,0,Derrota,1.5,April,Wednesday,3
+8234,2025-04-15,Atlético Costa,Jugador_058,Mediocampista,90,0,0,1,Victoria,1.5,April,Tuesday,2
+8364,2025-04-18,Atlético Costa,Jugador_007,Mediocampista,90,0,0,0,Empate,1.5,April,Friday,5
+8014,2025-04-18,Atlético Costa,Jugador_012,Arquero,90,0,0,0,Derrota,1.5,April,Friday,5
+8253,2025-04-21,Atlético Costa,Jugador_030,Mediocampista,90,0,0,0,Derrota,1.5,April,Monday,1
+8033,2025-04-21,Atlético Costa,Jugador_005,Arquero,90,0,0,0,Empate,1.5,April,Monday,1
+8482,2025-04-27,Atlético Costa,Jugador_004,Arquero,75,0,0,0,Derrota,1.25,April,Sunday,7
+8110,2025-04-27,Atlético Costa,Jugador_049,Defensa,90,0,0,0,Derrota,1.5,April,Sunday,7
+8336,2025-05-06,Atlético Costa,Jugador_001,Arquero,90,0,0,0,Derrota,1.5,May,Tuesday,2
+8412,2025-05-12,Atlético Costa,Jugador_019,Defensa,60,0,0,0,Empate,1.0,May,Monday,1
+8228,2025-05-12,Atlético Costa,Jugador_005,Arquero,90,0,0,0,Victoria,1.5,May,Monday,1
+8088,2025-05-12,Atlético Costa,Jugador_052,Arquero,90,0,0,0,Victoria,1.5,May,Monday,1
+8386,2025-05-15,Atlético Costa,Jugador_037,Arquero,30,0,0,1,Victoria,0.5,May,Thursday,4
+8264,2025-05-21,Atlético Costa,Jugador_032,Mediocampista,60,0,0,0,Derrota,1.0,May,Wednesday,3
+8454,2025-05-24,Atlético Costa,Jugador_031,Mediocampista,75,0,0,1,Empate,1.25,May,Saturday,6
+8179,2025-05-24,Atlético Costa,Jugador_054,Defensa,60,0,0,1,Victoria,1.0,May,Saturday,6
+8432,2025-05-27,Atlético Costa,Jugador_051,Mediocampista,60,0,0,0,Empate,1.0,May,Tuesday,2
+8367,2025-06-02,Atlético Costa,Jugador_050,Defensa,90,0,0,0,Victoria,1.5,June,Monday,1
+8268,2025-06-02,Atlético Costa,Jugador_007,Arquero,75,0,0,1,Empate,1.25,June,Monday,1
+8337,2025-06-02,Atlético Costa,Jugador_046,Defensa,45,0,0,0,Derrota,0.75,June,Monday,1
+8013,2025-06-05,Atlético Costa,Jugador_044,Arquero,45,0,0,0,Empate,0.75,June,Thursday,4
+8345,2025-06-08,Atlético Costa,Jugador_007,Defensa,45,0,0,0,Empate,0.75,June,Sunday,7
+8135,2025-06-11,Atlético Costa,Jugador_035,Defensa,90,0,0,0,Victoria,1.5,June,Wednesday,3
+8118,2025-06-14,Atlético Costa,Jugador_029,Arquero,45,0,0,0,Empate,0.75,June,Saturday,6
+8090,2025-06-14,Atlético Costa,Jugador_038,Mediocampista,60,0,0,0,Victoria,1.0,June,Saturday,6
+8423,2025-06-23,Atlético Costa,Jugador_055,Arquero,60,0,0,0,Empate,1.0,June,Monday,1
+8477,2025-06-23,Atlético Costa,Jugador_028,Arquero,90,0,0,2,Derrota,1.5,June,Monday,1
+8112,2025-06-26,Atlético Costa,Jugador_039,Delantero,90,0,0,0,Victoria,1.5,June,Thursday,4
+8487,2025-07-02,Atlético Costa,Jugador_021,Arquero,30,0,0,0,Victoria,0.5,July,Wednesday,3
+8488,2025-07-02,Atlético Costa,Jugador_044,Arquero,30,0,0,1,Derrota,0.5,July,Wednesday,3
+8265,2025-07-08,Atlético Costa,Jugador_045,Delantero,90,0,0,0,Derrota,1.5,July,Tuesday,2
+8055,2025-07-14,Atlético Costa,Jugador_002,Delantero,90,0,1,0,Empate,1.5,July,Monday,1
+8050,2025-07-17,Atlético Costa,Jugador_014,Defensa,75,0,0,1,Empate,1.25,July,Thursday,4
+8339,2025-07-17,Atlético Costa,Jugador_035,Arquero,60,0,0,0,Derrota,1.0,July,Thursday,4
+8379,2025-07-26,Atlético Costa,Jugador_029,Arquero,90,0,0,0,Empate,1.5,July,Saturday,6
+8129,2025-07-26,Atlético Costa,Jugador_049,Mediocampista,75,0,1,1,Derrota,1.25,July,Saturday,6
+8355,2025-08-04,Atlético Costa,Jugador_017,Arquero,75,0,0,0,Victoria,1.25,August,Monday,1
+8089,2025-08-10,Atlético Costa,Jugador_032,Delantero,90,0,0,1,Derrota,1.5,August,Sunday,7
+8240,2025-08-10,Atlético Costa,Jugador_026,Mediocampista,90,0,0,0,Empate,1.5,August,Sunday,7
+8078,2025-08-13,Atlético Costa,Jugador_037,Mediocampista,90,0,0,0,Empate,1.5,August,Wednesday,3
+8178,2025-08-16,Atlético Costa,Jugador_029,Arquero,60,0,0,0,Empate,1.0,August,Saturday,6
+8300,2025-08-19,Atlético Costa,Jugador_026,Arquero,60,0,0,1,Empate,1.0,August,Tuesday,2
+8358,2025-08-25,Atlético Costa,Jugador_004,Defensa,90,0,0,0,Derrota,1.5,August,Monday,1
+8305,2025-08-28,Atlético Costa,Jugador_051,Delantero,60,0,0,0,Victoria,1.0,August,Thursday,4
+8020,2025-08-28,Atlético Costa,Jugador_012,Delantero,90,0,0,0,Empate,1.5,August,Thursday,4
+8341,2025-08-31,Atlético Costa,Jugador_052,Mediocampista,90,0,1,1,Derrota,1.5,August,Sunday,7
+8469,2025-09-06,Atlético Costa,Jugador_007,Defensa,90,0,0,0,Empate,1.5,September,Saturday,6
+8051,2025-09-15,Atlético Costa,Jugador_059,Arquero,75,0,0,0,Empate,1.25,September,Monday,1
+8395,2025-09-15,Atlético Costa,Jugador_010,Mediocampista,90,0,0,0,Victoria,1.5,September,Monday,1
+8010,2025-09-15,Atlético Costa,Jugador_023,Defensa,75,0,0,0,Empate,1.25,September,Monday,1
+8195,2025-09-24,Atlético Costa,Jugador_032,Defensa,30,0,0,0,Victoria,0.5,September,Wednesday,3
+8458,2025-10-12,Atlético Costa,Jugador_030,Delantero,75,0,0,0,Empate,1.25,October,Sunday,7
+8490,2025-10-12,Atlético Costa,Jugador_003,Delantero,60,0,0,0,Derrota,1.0,October,Sunday,7
+8174,2025-10-21,Atlético Costa,Jugador_007,Delantero,75,0,0,0,Victoria,1.25,October,Tuesday,2
+8218,2025-10-30,Atlético Costa,Jugador_024,Defensa,30,0,0,0,Derrota,0.5,October,Thursday,4
+8393,2025-10-30,Atlético Costa,Jugador_060,Defensa,45,0,1,1,Victoria,0.75,October,Thursday,4
+8392,2025-11-02,Atlético Costa,Jugador_034,Defensa,90,0,0,0,Victoria,1.5,November,Sunday,7
+8471,2025-11-05,Atlético Costa,Jugador_047,Defensa,30,0,0,1,Victoria,0.5,November,Wednesday,3
+8453,2025-11-08,Atlético Costa,Jugador_037,Arquero,60,0,0,0,Empate,1.0,November,Saturday,6
+8270,2025-11-08,Atlético Costa,Jugador_002,Arquero,90,0,0,2,Empate,1.5,November,Saturday,6
+8459,2025-11-11,Atlético Costa,Jugador_027,Defensa,45,0,0,0,Derrota,0.75,November,Tuesday,2
+8012,2025-11-11,Atlético Costa,Jugador_025,Defensa,90,0,0,0,Derrota,1.5,November,Tuesday,2
+8444,2025-11-11,Atlético Costa,Jugador_008,Delantero,90,0,0,1,Empate,1.5,November,Tuesday,2
+8166,2025-11-14,Atlético Costa,Jugador_014,Defensa,45,0,0,1,Empate,0.75,November,Friday,5
+8093,2025-11-14,Atlético Costa,Jugador_002,Delantero,90,0,0,0,Empate,1.5,November,Friday,5
+8413,2025-11-20,Atlético Costa,Jugador_025,Defensa,75,0,0,0,Derrota,1.25,November,Thursday,4
+8437,2025-11-26,Atlético Costa,Jugador_003,Delantero,30,0,1,0,Derrota,0.5,November,Wednesday,3
+8062,2025-11-29,Atlético Costa,Jugador_060,Arquero,90,0,0,0,Empate,1.5,November,Saturday,6
+8198,2025-11-29,Atlético Costa,Jugador_007,Delantero,30,0,0,0,Victoria,0.5,November,Saturday,6
+8468,2025-04-27,Cóndor United,Jugador_049,Delantero,60,2,1,0,Empate,1.0,April,Sunday,7
+8349,2025-05-06,Cóndor United,Jugador_042,Mediocampista,90,2,0,0,Derrota,1.5,May,Tuesday,2
+8100,2025-07-23,Cóndor United,Jugador_034,Mediocampista,75,1,1,0,Empate,1.25,July,Wednesday,3
+8284,2025-08-13,Cóndor United,Jugador_002,Delantero,60,1,1,0,Derrota,1.0,August,Wednesday,3
+8320,2025-08-16,Cóndor United,Jugador_048,Mediocampista,90,1,2,0,Victoria,1.5,August,Saturday,6
+8258,2025-08-16,Cóndor United,Jugador_038,Mediocampista,75,1,1,0,Derrota,1.25,August,Saturday,6
+8009,2025-08-22,Cóndor United,Jugador_023,Delantero,60,1,0,0,Victoria,1.0,August,Friday,5
+8225,2025-09-21,Cóndor United,Jugador_053,Delantero,60,1,0,0,Victoria,1.0,September,Sunday,7
+8306,2025-09-24,Cóndor United,Jugador_049,Delantero,75,1,0,0,Victoria,1.25,September,Wednesday,3
+8318,2025-11-11,Cóndor United,Jugador_034,Delantero,90,1,0,1,Derrota,1.5,November,Tuesday,2
+8460,2025-11-29,Cóndor United,Jugador_013,Delantero,90,1,0,1,Victoria,1.5,November,Saturday,6
+8206,2025-03-01,Cóndor United,Jugador_059,Defensa,45,0,0,0,Derrota,0.75,March,Saturday,6
+8191,2025-03-04,Cóndor United,Jugador_006,Defensa,45,0,0,2,Empate,0.75,March,Tuesday,2
+8486,2025-03-13,Cóndor United,Jugador_011,Arquero,30,0,0,1,Derrota,0.5,March,Thursday,4
+8414,2025-03-19,Cóndor United,Jugador_002,Arquero,30,0,0,0,Empate,0.5,March,Wednesday,3
+8261,2025-03-28,Cóndor United,Jugador_057,Defensa,90,0,0,0,Victoria,1.5,March,Friday,5
+8282,2025-04-03,Cóndor United,Jugador_048,Arquero,90,0,0,0,Derrota,1.5,April,Thursday,4
+8274,2025-04-09,Cóndor United,Jugador_002,Arquero,30,0,0,0,Empate,0.5,April,Wednesday,3
+8192,2025-04-21,Cóndor United,Jugador_030,Defensa,45,0,0,0,Victoria,0.75,April,Monday,1
+8247,2025-04-30,Cóndor United,Jugador_032,Arquero,30,0,0,0,Empate,0.5,April,Wednesday,3
+8233,2025-05-03,Cóndor United,Jugador_021,Defensa,90,0,0,0,Victoria,1.5,May,Saturday,6
+8476,2025-05-09,Cóndor United,Jugador_039,Arquero,30,0,0,0,Derrota,0.5,May,Friday,5
+8181,2025-05-12,Cóndor United,Jugador_030,Defensa,60,0,0,0,Victoria,1.0,May,Monday,1
+8440,2025-05-12,Cóndor United,Jugador_048,Defensa,45,0,0,0,Victoria,0.75,May,Monday,1
+8410,2025-05-18,Cóndor United,Jugador_004,Mediocampista,90,0,0,0,Empate,1.5,May,Sunday,7
+8175,2025-05-24,Cóndor United,Jugador_023,Delantero,60,0,0,0,Empate,1.0,May,Saturday,6
+8378,2025-05-30,Cóndor United,Jugador_039,Mediocampista,75,0,0,1,Victoria,1.25,May,Friday,5
+8205,2025-05-30,Cóndor United,Jugador_040,Defensa,75,0,1,0,Victoria,1.25,May,Friday,5
+8184,2025-05-30,Cóndor United,Jugador_030,Delantero,60,0,0,0,Derrota,1.0,May,Friday,5
+8136,2025-06-08,Cóndor United,Jugador_025,Mediocampista,30,0,2,0,Derrota,0.5,June,Sunday,7
+8190,2025-06-11,Cóndor United,Jugador_014,Mediocampista,90,0,0,0,Victoria,1.5,June,Wednesday,3
+8161,2025-06-11,Cóndor United,Jugador_059,Delantero,60,0,0,0,Victoria,1.0,June,Wednesday,3
+8202,2025-06-11,Cóndor United,Jugador_016,Defensa,45,0,0,1,Victoria,0.75,June,Wednesday,3
+8224,2025-06-14,Cóndor United,Jugador_047,Delantero,90,0,1,0,Derrota,1.5,June,Saturday,6
+8095,2025-06-14,Cóndor United,Jugador_058,Arquero,90,0,0,0,Victoria,1.5,June,Saturday,6
+8308,2025-06-17,Cóndor United,Jugador_012,Arquero,75,0,0,0,Derrota,1.25,June,Tuesday,2
+8353,2025-06-17,Cóndor United,Jugador_009,Arquero,45,0,0,0,Victoria,0.75,June,Tuesday,2
+8039,2025-06-17,Cóndor United,Jugador_051,Arquero,60,0,0,1,Victoria,1.0,June,Tuesday,2
+8030,2025-06-23,Cóndor United,Jugador_011,Arquero,90,0,0,0,Empate,1.5,June,Monday,1
+8227,2025-06-26,Cóndor United,Jugador_012,Mediocampista,90,0,0,0,Derrota,1.5,June,Thursday,4
+8149,2025-06-29,Cóndor United,Jugador_041,Defensa,90,0,1,0,Victoria,1.5,June,Sunday,7
+8236,2025-06-29,Cóndor United,Jugador_045,Arquero,75,0,0,0,Empate,1.25,June,Sunday,7
+8494,2025-06-29,Cóndor United,Jugador_040,Arquero,90,0,0,1,Derrota,1.5,June,Sunday,7
+8319,2025-06-29,Cóndor United,Jugador_015,Arquero,30,0,0,0,Victoria,0.5,June,Sunday,7
+8217,2025-07-02,Cóndor United,Jugador_041,Defensa,90,0,1,0,Victoria,1.5,July,Wednesday,3
+8407,2025-07-02,Cóndor United,Jugador_043,Arquero,90,0,0,0,Empate,1.5,July,Wednesday,3
+8068,2025-07-11,Cóndor United,Jugador_049,Arquero,90,0,0,0,Empate,1.5,July,Friday,5
+8054,2025-07-11,Cóndor United,Jugador_011,Mediocampista,60,0,2,0,Victoria,1.0,July,Friday,5
+8296,2025-07-11,Cóndor United,Jugador_050,Arquero,90,0,0,0,Victoria,1.5,July,Friday,5
+8141,2025-07-11,Cóndor United,Jugador_030,Defensa,90,0,0,0,Derrota,1.5,July,Friday,5
+8143,2025-07-11,Cóndor United,Jugador_043,Arquero,90,0,0,2,Victoria,1.5,July,Friday,5
+8007,2025-07-14,Cóndor United,Jugador_057,Mediocampista,45,0,1,1,Victoria,0.75,July,Monday,1
+8375,2025-07-17,Cóndor United,Jugador_057,Arquero,60,0,0,0,Derrota,1.0,July,Thursday,4
+8173,2025-07-23,Cóndor United,Jugador_031,Arquero,60,0,0,0,Derrota,1.0,July,Wednesday,3
+8302,2025-07-26,Cóndor United,Jugador_022,Delantero,90,0,0,2,Empate,1.5,July,Saturday,6
+8404,2025-07-29,Cóndor United,Jugador_048,Defensa,90,0,0,0,Victoria,1.5,July,Tuesday,2
+8211,2025-08-01,Cóndor United,Jugador_024,Mediocampista,90,0,1,0,Empate,1.5,August,Friday,5
+8287,2025-08-01,Cóndor United,Jugador_005,Mediocampista,30,0,1,1,Victoria,0.5,August,Friday,5
+8244,2025-08-04,Cóndor United,Jugador_045,Arquero,90,0,0,0,Empate,1.5,August,Monday,1
+8383,2025-08-07,Cóndor United,Jugador_010,Arquero,90,0,0,0,Empate,1.5,August,Thursday,4
+8277,2025-08-22,Cóndor United,Jugador_029,Arquero,90,0,0,0,Derrota,1.5,August,Friday,5
+8237,2025-08-25,Cóndor United,Jugador_040,Arquero,60,0,0,1,Empate,1.0,August,Monday,1
+8158,2025-08-25,Cóndor United,Jugador_045,Defensa,90,0,0,0,Empate,1.5,August,Monday,1
+8220,2025-08-28,Cóndor United,Jugador_020,Mediocampista,75,0,1,0,Victoria,1.25,August,Thursday,4
+8498,2025-09-06,Cóndor United,Jugador_043,Arquero,90,0,0,0,Victoria,1.5,September,Saturday,6
+8271,2025-09-15,Cóndor United,Jugador_020,Mediocampista,60,0,1,0,Victoria,1.0,September,Monday,1
+8292,2025-09-15,Cóndor United,Jugador_038,Mediocampista,90,0,1,0,Empate,1.5,September,Monday,1
+8441,2025-09-15,Cóndor United,Jugador_030,Mediocampista,60,0,0,1,Empate,1.0,September,Monday,1
+8046,2025-09-15,Cóndor United,Jugador_033,Defensa,30,0,1,0,Victoria,0.5,September,Monday,1
+8132,2025-09-21,Cóndor United,Jugador_053,Arquero,30,0,0,0,Empate,0.5,September,Sunday,7
+8397,2025-09-21,Cóndor United,Jugador_048,Mediocampista,60,0,1,0,Derrota,1.0,September,Sunday,7
+8148,2025-10-09,Cóndor United,Jugador_018,Mediocampista,90,0,1,0,Empate,1.5,October,Thursday,4
+8073,2025-10-15,Cóndor United,Jugador_046,Arquero,75,0,0,2,Victoria,1.25,October,Wednesday,3
+8255,2025-10-18,Cóndor United,Jugador_027,Mediocampista,45,0,2,2,Derrota,0.75,October,Saturday,6
+8366,2025-10-18,Cóndor United,Jugador_015,Delantero,60,0,0,0,Empate,1.0,October,Saturday,6
+8259,2025-10-18,Cóndor United,Jugador_005,Mediocampista,60,0,0,0,Victoria,1.0,October,Saturday,6
+8083,2025-10-21,Cóndor United,Jugador_039,Arquero,90,0,0,1,Victoria,1.5,October,Tuesday,2
+8060,2025-10-27,Cóndor United,Jugador_059,Defensa,90,0,0,0,Derrota,1.5,October,Monday,1
+8492,2025-10-30,Cóndor United,Jugador_060,Arquero,30,0,0,0,Empate,0.5,October,Thursday,4
+8071,2025-11-02,Cóndor United,Jugador_023,Arquero,60,0,0,0,Derrota,1.0,November,Sunday,7
+8316,2025-11-08,Cóndor United,Jugador_022,Delantero,30,0,0,1,Empate,0.5,November,Saturday,6
+8212,2025-11-08,Cóndor United,Jugador_054,Delantero,90,0,0,0,Empate,1.5,November,Saturday,6
+8429,2025-11-08,Cóndor United,Jugador_018,Arquero,90,0,0,2,Victoria,1.5,November,Saturday,6
+8034,2025-11-14,Cóndor United,Jugador_019,Defensa,60,0,0,0,Victoria,1.0,November,Friday,5
+8144,2025-11-17,Cóndor United,Jugador_012,Arquero,90,0,0,0,Derrota,1.5,November,Monday,1
+8376,2025-11-17,Cóndor United,Jugador_058,Arquero,90,0,0,0,Victoria,1.5,November,Monday,1
+8124,2025-11-26,Cóndor United,Jugador_007,Delantero,60,0,0,0,Empate,1.0,November,Wednesday,3
+8403,2025-05-03,Deportivo Sierra,Jugador_029,Delantero,90,2,0,0,Victoria,1.5,May,Saturday,6
+8382,2025-03-07,Deportivo Sierra,Jugador_002,Mediocampista,45,1,0,1,Empate,0.75,March,Friday,5
+8447,2025-04-21,Deportivo Sierra,Jugador_013,Mediocampista,45,1,1,0,Derrota,0.75,April,Monday,1
+8203,2025-05-09,Deportivo Sierra,Jugador_037,Mediocampista,90,1,0,0,Derrota,1.5,May,Friday,5
+8064,2025-06-20,Deportivo Sierra,Jugador_016,Delantero,90,1,0,0,Victoria,1.5,June,Friday,5
+8293,2025-06-26,Deportivo Sierra,Jugador_048,Delantero,30,1,0,0,Empate,0.5,June,Thursday,4
+8187,2025-07-14,Deportivo Sierra,Jugador_040,Delantero,60,1,0,1,Victoria,1.0,July,Monday,1
+8347,2025-08-10,Deportivo Sierra,Jugador_033,Delantero,75,1,1,0,Empate,1.25,August,Sunday,7
+8301,2025-08-22,Deportivo Sierra,Jugador_054,Delantero,90,1,1,0,Empate,1.5,August,Friday,5
+8329,2025-09-09,Deportivo Sierra,Jugador_006,Delantero,75,1,0,1,Derrota,1.25,September,Tuesday,2
+8418,2025-10-12,Deportivo Sierra,Jugador_057,Delantero,30,1,0,0,Victoria,0.5,October,Sunday,7
+8426,2025-11-08,Deportivo Sierra,Jugador_003,Delantero,75,1,0,0,Derrota,1.25,November,Saturday,6
+8285,2025-11-23,Deportivo Sierra,Jugador_037,Delantero,90,1,1,0,Empate,1.5,November,Sunday,7
+8177,2025-11-26,Deportivo Sierra,Jugador_038,Delantero,90,1,1,0,Victoria,1.5,November,Wednesday,3
+8310,2025-11-29,Deportivo Sierra,Jugador_015,Delantero,60,1,0,0,Empate,1.0,November,Saturday,6
+8042,2025-03-16,Deportivo Sierra,Jugador_016,Arquero,60,0,0,0,Victoria,1.0,March,Sunday,7
+8128,2025-03-22,Deportivo Sierra,Jugador_023,Delantero,90,0,1,1,Empate,1.5,March,Saturday,6
+8022,2025-03-22,Deportivo Sierra,Jugador_021,Arquero,30,0,0,0,Derrota,0.5,March,Saturday,6
+8449,2025-03-28,Deportivo Sierra,Jugador_014,Mediocampista,75,0,0,1,Victoria,1.25,March,Friday,5
+8248,2025-04-03,Deportivo Sierra,Jugador_045,Defensa,45,0,0,0,Empate,0.75,April,Thursday,4
+8165,2025-04-09,Deportivo Sierra,Jugador_057,Delantero,75,0,0,0,Victoria,1.25,April,Wednesday,3
+8357,2025-04-15,Deportivo Sierra,Jugador_035,Delantero,90,0,0,0,Empate,1.5,April,Tuesday,2
+8238,2025-04-15,Deportivo Sierra,Jugador_021,Arquero,90,0,0,1,Derrota,1.5,April,Tuesday,2
+8419,2025-04-15,Deportivo Sierra,Jugador_013,Mediocampista,60,0,0,0,Victoria,1.0,April,Tuesday,2
+8455,2025-04-24,Deportivo Sierra,Jugador_043,Defensa,75,0,0,0,Empate,1.25,April,Thursday,4
+8183,2025-04-27,Deportivo Sierra,Jugador_006,Defensa,90,0,0,0,Derrota,1.5,April,Sunday,7
+8157,2025-05-03,Deportivo Sierra,Jugador_020,Mediocampista,90,0,2,0,Victoria,1.5,May,Saturday,6
+8368,2025-05-06,Deportivo Sierra,Jugador_013,Arquero,30,0,0,2,Derrota,0.5,May,Tuesday,2
+8342,2025-05-09,Deportivo Sierra,Jugador_030,Defensa,30,0,0,0,Victoria,0.5,May,Friday,5
+8278,2025-05-12,Deportivo Sierra,Jugador_044,Arquero,90,0,0,0,Empate,1.5,May,Monday,1
+8113,2025-05-15,Deportivo Sierra,Jugador_037,Mediocampista,30,0,0,0,Victoria,0.5,May,Thursday,4
+8428,2025-05-21,Deportivo Sierra,Jugador_029,Arquero,30,0,0,2,Victoria,0.5,May,Wednesday,3
+8096,2025-05-27,Deportivo Sierra,Jugador_055,Mediocampista,30,0,1,0,Victoria,0.5,May,Tuesday,2
+8252,2025-05-30,Deportivo Sierra,Jugador_019,Delantero,30,0,1,0,Derrota,0.5,May,Friday,5
+8025,2025-06-02,Deportivo Sierra,Jugador_059,Defensa,45,0,0,0,Derrota,0.75,June,Monday,1
+8290,2025-06-17,Deportivo Sierra,Jugador_019,Defensa,75,0,0,0,Victoria,1.25,June,Tuesday,2
+8369,2025-06-17,Deportivo Sierra,Jugador_050,Arquero,30,0,0,0,Empate,0.5,June,Tuesday,2
+8092,2025-06-23,Deportivo Sierra,Jugador_014,Arquero,90,0,0,1,Derrota,1.5,June,Monday,1
+8485,2025-06-26,Deportivo Sierra,Jugador_034,Arquero,45,0,0,0,Empate,0.75,June,Thursday,4
+8401,2025-06-29,Deportivo Sierra,Jugador_007,Delantero,30,0,1,1,Empate,0.5,June,Sunday,7
+8081,2025-07-02,Deportivo Sierra,Jugador_021,Mediocampista,90,0,0,0,Victoria,1.5,July,Wednesday,3
+8168,2025-07-14,Deportivo Sierra,Jugador_001,Defensa,90,0,0,0,Derrota,1.5,July,Monday,1
+8045,2025-07-17,Deportivo Sierra,Jugador_047,Mediocampista,90,0,1,0,Empate,1.5,July,Thursday,4
+8365,2025-07-26,Deportivo Sierra,Jugador_027,Mediocampista,90,0,0,0,Derrota,1.5,July,Saturday,6
+8326,2025-07-26,Deportivo Sierra,Jugador_003,Defensa,90,0,0,0,Empate,1.5,July,Saturday,6
+8001,2025-07-26,Deportivo Sierra,Jugador_031,Arquero,30,0,0,0,Empate,0.5,July,Saturday,6
+8399,2025-08-04,Deportivo Sierra,Jugador_025,Arquero,45,0,0,0,Derrota,0.75,August,Monday,1
+8294,2025-08-04,Deportivo Sierra,Jugador_053,Delantero,90,0,0,0,Empate,1.5,August,Monday,1
+8420,2025-08-07,Deportivo Sierra,Jugador_027,Arquero,45,0,0,0,Empate,0.75,August,Thursday,4
+8057,2025-08-07,Deportivo Sierra,Jugador_020,Delantero,90,0,1,0,Derrota,1.5,August,Thursday,4
+8069,2025-08-13,Deportivo Sierra,Jugador_038,Delantero,45,0,0,0,Victoria,0.75,August,Wednesday,3
+8186,2025-08-16,Deportivo Sierra,Jugador_011,Arquero,75,0,0,0,Empate,1.25,August,Saturday,6
+8297,2025-08-16,Deportivo Sierra,Jugador_023,Mediocampista,90,0,0,0,Derrota,1.5,August,Saturday,6
+8036,2025-08-19,Deportivo Sierra,Jugador_048,Mediocampista,90,0,0,0,Victoria,1.5,August,Tuesday,2
+8075,2025-08-28,Deportivo Sierra,Jugador_036,Arquero,30,0,0,0,Empate,0.5,August,Thursday,4
+8474,2025-09-03,Deportivo Sierra,Jugador_059,Mediocampista,90,0,0,0,Victoria,1.5,September,Wednesday,3
+8182,2025-09-03,Deportivo Sierra,Jugador_057,Arquero,90,0,0,0,Victoria,1.5,September,Wednesday,3
+8147,2025-09-09,Deportivo Sierra,Jugador_009,Defensa,60,0,0,1,Victoria,1.0,September,Tuesday,2
+8321,2025-09-21,Deportivo Sierra,Jugador_006,Arquero,90,0,0,1,Empate,1.5,September,Sunday,7
+8251,2025-09-27,Deportivo Sierra,Jugador_009,Arquero,75,0,0,0,Derrota,1.25,September,Saturday,6
+8456,2025-10-06,Deportivo Sierra,Jugador_042,Arquero,30,0,0,0,Empate,0.5,October,Monday,1
+8445,2025-10-15,Deportivo Sierra,Jugador_051,Mediocampista,75,0,1,0,Empate,1.25,October,Wednesday,3
+8026,2025-10-21,Deportivo Sierra,Jugador_057,Defensa,30,0,0,0,Empate,0.5,October,Tuesday,2
+8372,2025-10-24,Deportivo Sierra,Jugador_058,Delantero,75,0,1,0,Empate,1.25,October,Friday,5
+8340,2025-10-24,Deportivo Sierra,Jugador_005,Arquero,45,0,0,0,Empate,0.75,October,Friday,5
+8452,2025-10-27,Deportivo Sierra,Jugador_029,Arquero,90,0,0,0,Victoria,1.5,October,Monday,1
+8086,2025-10-27,Deportivo Sierra,Jugador_047,Defensa,60,0,0,0,Empate,1.0,October,Monday,1
+8400,2025-10-30,Deportivo Sierra,Jugador_060,Mediocampista,60,0,0,0,Victoria,1.0,October,Thursday,4
+8373,2025-11-02,Deportivo Sierra,Jugador_042,Arquero,45,0,0,0,Victoria,0.75,November,Sunday,7
+8335,2025-11-02,Deportivo Sierra,Jugador_028,Delantero,90,0,0,0,Victoria,1.5,November,Sunday,7
+8330,2025-11-02,Deportivo Sierra,Jugador_002,Defensa,90,0,0,2,Empate,1.5,November,Sunday,7
+8439,2025-11-20,Deportivo Sierra,Jugador_048,Delantero,30,0,1,1,Empate,0.5,November,Thursday,4
+8216,2025-11-23,Deportivo Sierra,Jugador_021,Arquero,90,0,0,0,Victoria,1.5,November,Sunday,7
+8332,2025-11-26,Deportivo Sierra,Jugador_032,Defensa,90,0,0,0,Derrota,1.5,November,Wednesday,3
+8344,2025-11-26,Deportivo Sierra,Jugador_048,Delantero,30,0,0,0,Victoria,0.5,November,Wednesday,3
+8077,2025-11-29,Deportivo Sierra,Jugador_001,Delantero,60,0,0,1,Empate,1.0,November,Saturday,6
+8276,2025-11-08,Halcones FC,Jugador_041,Delantero,45,2,0,0,Derrota,0.75,November,Saturday,6
+8246,2025-03-28,Halcones FC,Jugador_031,Mediocampista,75,1,0,0,Empate,1.25,March,Friday,5
+8229,2025-04-03,Halcones FC,Jugador_052,Delantero,45,1,0,0,Empate,0.75,April,Thursday,4
+8495,2025-04-03,Halcones FC,Jugador_021,Delantero,90,1,0,0,Empate,1.5,April,Thursday,4
+8402,2025-04-15,Halcones FC,Jugador_043,Delantero,45,1,1,1,Empate,0.75,April,Tuesday,2
+8462,2025-05-21,Halcones FC,Jugador_042,Mediocampista,90,1,0,1,Victoria,1.5,May,Wednesday,3
+8480,2025-07-17,Halcones FC,Jugador_030,Delantero,30,1,1,0,Empate,0.5,July,Thursday,4
+8406,2025-08-07,Halcones FC,Jugador_029,Mediocampista,90,1,0,1,Empate,1.5,August,Thursday,4
+8016,2025-09-06,Halcones FC,Jugador_013,Mediocampista,45,1,0,0,Victoria,0.75,September,Saturday,6
+8170,2025-09-18,Halcones FC,Jugador_001,Delantero,90,1,0,1,Victoria,1.5,September,Thursday,4
+8275,2025-10-06,Halcones FC,Jugador_046,Delantero,60,1,0,0,Victoria,1.0,October,Monday,1
+8239,2025-10-24,Halcones FC,Jugador_044,Delantero,45,1,0,1,Victoria,0.75,October,Friday,5
+8479,2025-10-27,Halcones FC,Jugador_052,Delantero,30,1,1,0,Victoria,0.5,October,Monday,1
+8120,2025-10-30,Halcones FC,Jugador_046,Defensa,90,1,0,0,Victoria,1.5,October,Thursday,4
+8231,2025-11-20,Halcones FC,Jugador_053,Delantero,45,1,0,0,Derrota,0.75,November,Thursday,4
+8104,2025-03-04,Halcones FC,Jugador_050,Mediocampista,45,0,1,0,Victoria,0.75,March,Tuesday,2
+8032,2025-03-04,Halcones FC,Jugador_003,Defensa,30,0,0,1,Empate,0.5,March,Tuesday,2
+8262,2025-03-22,Halcones FC,Jugador_035,Arquero,45,0,0,0,Victoria,0.75,March,Saturday,6
+8043,2025-03-25,Halcones FC,Jugador_032,Delantero,30,0,0,0,Derrota,0.5,March,Tuesday,2
+8497,2025-04-09,Halcones FC,Jugador_023,Mediocampista,75,0,0,1,Empate,1.25,April,Wednesday,3
+8473,2025-04-09,Halcones FC,Jugador_020,Mediocampista,45,0,0,0,Victoria,0.75,April,Wednesday,3
+8470,2025-04-15,Halcones FC,Jugador_044,Delantero,90,0,0,2,Victoria,1.5,April,Tuesday,2
+8199,2025-04-30,Halcones FC,Jugador_054,Delantero,75,0,0,0,Victoria,1.25,April,Wednesday,3
+8219,2025-05-09,Halcones FC,Jugador_010,Mediocampista,90,0,0,1,Derrota,1.5,May,Friday,5
+8038,2025-05-21,Halcones FC,Jugador_034,Mediocampista,90,0,1,0,Victoria,1.5,May,Wednesday,3
+8422,2025-05-24,Halcones FC,Jugador_053,Arquero,30,0,0,1,Victoria,0.5,May,Saturday,6
+8343,2025-05-27,Halcones FC,Jugador_015,Arquero,30,0,0,0,Victoria,0.5,May,Tuesday,2
+8021,2025-05-27,Halcones FC,Jugador_036,Mediocampista,90,0,0,0,Derrota,1.5,May,Tuesday,2
+8475,2025-05-30,Halcones FC,Jugador_011,Arquero,45,0,0,0,Empate,0.75,May,Friday,5
+8388,2025-06-11,Halcones FC,Jugador_021,Delantero,30,0,0,1,Derrota,0.5,June,Wednesday,3
+8385,2025-06-11,Halcones FC,Jugador_023,Defensa,45,0,0,0,Derrota,0.75,June,Wednesday,3
+8087,2025-06-14,Halcones FC,Jugador_060,Defensa,60,0,0,0,Victoria,1.0,June,Saturday,6
+8489,2025-06-20,Halcones FC,Jugador_015,Delantero,30,0,0,0,Empate,0.5,June,Friday,5
+8394,2025-06-23,Halcones FC,Jugador_054,Arquero,30,0,0,0,Derrota,0.5,June,Monday,1
+8226,2025-06-29,Halcones FC,Jugador_060,Defensa,75,0,0,0,Empate,1.25,June,Sunday,7
+8109,2025-07-02,Halcones FC,Jugador_008,Defensa,30,0,0,0,Empate,0.5,July,Wednesday,3
+8108,2025-07-08,Halcones FC,Jugador_035,Defensa,30,0,0,0,Derrota,0.5,July,Tuesday,2
+8053,2025-07-11,Halcones FC,Jugador_039,Delantero,90,0,0,0,Victoria,1.5,July,Friday,5
+8221,2025-07-11,Halcones FC,Jugador_026,Mediocampista,60,0,1,0,Derrota,1.0,July,Friday,5
+8260,2025-07-17,Halcones FC,Jugador_032,Arquero,90,0,0,0,Derrota,1.5,July,Thursday,4
+8384,2025-07-17,Halcones FC,Jugador_041,Defensa,75,0,0,0,Derrota,1.25,July,Thursday,4
+8154,2025-07-23,Halcones FC,Jugador_026,Delantero,30,0,0,1,Derrota,0.5,July,Wednesday,3
+8145,2025-07-26,Halcones FC,Jugador_011,Delantero,90,0,0,0,Empate,1.5,July,Saturday,6
+8416,2025-07-29,Halcones FC,Jugador_007,Defensa,30,0,0,1,Empate,0.5,July,Tuesday,2
+8072,2025-08-01,Halcones FC,Jugador_011,Mediocampista,60,0,0,0,Empate,1.0,August,Friday,5
+8125,2025-08-01,Halcones FC,Jugador_037,Mediocampista,75,0,0,0,Victoria,1.25,August,Friday,5
+8303,2025-08-04,Halcones FC,Jugador_036,Defensa,90,0,0,1,Victoria,1.5,August,Monday,1
+8222,2025-08-04,Halcones FC,Jugador_021,Arquero,90,0,0,0,Victoria,1.5,August,Monday,1
+8380,2025-08-07,Halcones FC,Jugador_016,Mediocampista,90,0,0,0,Derrota,1.5,August,Thursday,4
+8280,2025-08-22,Halcones FC,Jugador_040,Mediocampista,90,0,0,1,Derrota,1.5,August,Friday,5
+8467,2025-08-22,Halcones FC,Jugador_013,Arquero,90,0,0,0,Derrota,1.5,August,Friday,5
+8425,2025-08-31,Halcones FC,Jugador_050,Mediocampista,90,0,0,0,Derrota,1.5,August,Sunday,7
+8189,2025-09-03,Halcones FC,Jugador_045,Mediocampista,60,0,0,0,Empate,1.0,September,Wednesday,3
+8207,2025-09-21,Halcones FC,Jugador_048,Mediocampista,75,0,0,0,Victoria,1.25,September,Sunday,7
+8493,2025-10-09,Halcones FC,Jugador_054,Arquero,90,0,0,0,Empate,1.5,October,Thursday,4
+8176,2025-10-15,Halcones FC,Jugador_021,Mediocampista,90,0,0,0,Derrota,1.5,October,Wednesday,3
+8153,2025-10-15,Halcones FC,Jugador_021,Arquero,60,0,0,0,Victoria,1.0,October,Wednesday,3
+8094,2025-10-21,Halcones FC,Jugador_038,Arquero,90,0,0,1,Derrota,1.5,October,Tuesday,2
+8461,2025-10-24,Halcones FC,Jugador_025,Defensa,75,0,0,1,Derrota,1.25,October,Friday,5
+8409,2025-10-24,Halcones FC,Jugador_056,Defensa,60,0,0,1,Empate,1.0,October,Friday,5
+8312,2025-10-27,Halcones FC,Jugador_027,Arquero,60,0,0,0,Victoria,1.0,October,Monday,1
+8017,2025-11-05,Halcones FC,Jugador_032,Arquero,90,0,0,0,Empate,1.5,November,Wednesday,3
+8018,2025-11-14,Halcones FC,Jugador_014,Arquero,75,0,0,2,Derrota,1.25,November,Friday,5
+8131,2025-11-17,Halcones FC,Jugador_024,Defensa,75,0,0,0,Victoria,1.25,November,Monday,1
+8180,2025-08-25,Real Andina,Jugador_046,Delantero,90,3,0,0,Victoria,1.5,August,Monday,1
+8283,2025-03-16,Real Andina,Jugador_036,Delantero,75,2,0,0,Derrota,1.25,March,Sunday,7
+8314,2025-04-18,Real Andina,Jugador_001,Delantero,30,2,0,0,Derrota,0.5,April,Friday,5
+8061,2025-04-21,Real Andina,Jugador_036,Delantero,90,2,0,0,Empate,1.5,April,Monday,1
+8169,2025-05-09,Real Andina,Jugador_009,Delantero,75,2,0,0,Derrota,1.25,May,Friday,5
+8433,2025-09-06,Real Andina,Jugador_042,Delantero,30,2,1,0,Derrota,0.5,September,Saturday,6
+8196,2025-03-07,Real Andina,Jugador_034,Mediocampista,90,1,0,1,Victoria,1.5,March,Friday,5
+8324,2025-03-07,Real Andina,Jugador_033,Mediocampista,30,1,1,1,Victoria,0.5,March,Friday,5
+8167,2025-03-22,Real Andina,Jugador_042,Delantero,75,1,0,2,Derrota,1.25,March,Saturday,6
+8417,2025-04-03,Real Andina,Jugador_011,Delantero,90,1,0,0,Victoria,1.5,April,Thursday,4
+8041,2025-04-03,Real Andina,Jugador_015,Mediocampista,30,1,0,0,Victoria,0.5,April,Thursday,4
+8356,2025-04-15,Real Andina,Jugador_036,Delantero,45,1,0,0,Derrota,0.75,April,Tuesday,2
+8201,2025-05-21,Real Andina,Jugador_013,Delantero,30,1,2,0,Derrota,0.5,May,Wednesday,3
+8160,2025-06-20,Real Andina,Jugador_026,Defensa,60,1,0,0,Victoria,1.0,June,Friday,5
+8390,2025-06-23,Real Andina,Jugador_058,Delantero,90,1,0,0,Victoria,1.5,June,Monday,1
+8266,2025-07-26,Real Andina,Jugador_045,Delantero,30,1,1,2,Victoria,0.5,July,Saturday,6
+8438,2025-08-10,Real Andina,Jugador_033,Defensa,45,1,0,1,Empate,0.75,August,Sunday,7
+8424,2025-08-22,Real Andina,Jugador_056,Defensa,45,1,0,0,Victoria,0.75,August,Friday,5
+8028,2025-08-28,Real Andina,Jugador_022,Mediocampista,45,1,1,0,Victoria,0.75,August,Thursday,4
+8484,2025-09-12,Real Andina,Jugador_002,Delantero,90,1,0,0,Empate,1.5,September,Friday,5
+8350,2025-09-15,Real Andina,Jugador_036,Delantero,75,1,0,0,Derrota,1.25,September,Monday,1
+8137,2025-10-03,Real Andina,Jugador_032,Mediocampista,90,1,1,0,Derrota,1.5,October,Friday,5
+8391,2025-03-01,Real Andina,Jugador_057,Arquero,90,0,0,0,Victoria,1.5,March,Saturday,6
+8213,2025-03-04,Real Andina,Jugador_036,Arquero,45,0,0,1,Derrota,0.75,March,Tuesday,2
+8363,2025-03-04,Real Andina,Jugador_045,Mediocampista,90,0,0,0,Victoria,1.5,March,Tuesday,2
+8311,2025-03-07,Real Andina,Jugador_027,Arquero,30,0,0,0,Empate,0.5,March,Friday,5
+8448,2025-03-07,Real Andina,Jugador_047,Mediocampista,90,0,0,0,Victoria,1.5,March,Friday,5
+8111,2025-03-13,Real Andina,Jugador_042,Mediocampista,60,0,0,1,Empate,1.0,March,Thursday,4
+8381,2025-03-13,Real Andina,Jugador_052,Defensa,90,0,1,0,Victoria,1.5,March,Thursday,4
+8116,2025-03-16,Real Andina,Jugador_012,Arquero,90,0,0,0,Victoria,1.5,March,Sunday,7
+8273,2025-03-22,Real Andina,Jugador_007,Delantero,60,0,0,0,Empate,1.0,March,Saturday,6
+8411,2025-03-25,Real Andina,Jugador_013,Defensa,90,0,0,0,Derrota,1.5,March,Tuesday,2
+8099,2025-03-31,Real Andina,Jugador_056,Delantero,60,0,1,0,Derrota,1.0,March,Monday,1
+8029,2025-03-31,Real Andina,Jugador_044,Defensa,45,0,1,1,Derrota,0.75,March,Monday,1
+8389,2025-03-31,Real Andina,Jugador_016,Defensa,90,0,0,0,Empate,1.5,March,Monday,1
+8309,2025-04-06,Real Andina,Jugador_001,Delantero,60,0,0,0,Victoria,1.0,April,Sunday,7
+8263,2025-04-12,Real Andina,Jugador_018,Defensa,30,0,0,1,Derrota,0.5,April,Saturday,6
+8322,2025-04-12,Real Andina,Jugador_046,Mediocampista,45,0,0,0,Victoria,0.75,April,Saturday,6
+8451,2025-04-15,Real Andina,Jugador_010,Defensa,60,0,0,0,Derrota,1.0,April,Tuesday,2
+8396,2025-04-15,Real Andina,Jugador_034,Arquero,90,0,0,0,Victoria,1.5,April,Tuesday,2
+8232,2025-04-18,Real Andina,Jugador_045,Mediocampista,90,0,0,0,Victoria,1.5,April,Friday,5
+8067,2025-04-21,Real Andina,Jugador_011,Defensa,75,0,0,0,Victoria,1.25,April,Monday,1
+8387,2025-04-24,Real Andina,Jugador_012,Mediocampista,45,0,2,0,Derrota,0.75,April,Thursday,4
+8015,2025-05-06,Real Andina,Jugador_047,Arquero,75,0,0,0,Victoria,1.25,May,Tuesday,2
+8463,2025-05-06,Real Andina,Jugador_039,Delantero,45,0,0,0,Derrota,0.75,May,Tuesday,2
+8405,2025-05-06,Real Andina,Jugador_006,Arquero,90,0,0,0,Derrota,1.5,May,Tuesday,2
+8133,2025-05-09,Real Andina,Jugador_024,Delantero,90,0,0,1,Victoria,1.5,May,Friday,5
+8172,2025-05-09,Real Andina,Jugador_029,Delantero,90,0,0,1,Victoria,1.5,May,Friday,5
+8257,2025-05-12,Real Andina,Jugador_048,Defensa,30,0,0,0,Victoria,0.5,May,Monday,1
+8035,2025-05-12,Real Andina,Jugador_052,Mediocampista,75,0,1,0,Derrota,1.25,May,Monday,1
+8082,2025-05-18,Real Andina,Jugador_011,Arquero,75,0,0,0,Victoria,1.25,May,Sunday,7
+8496,2025-05-21,Real Andina,Jugador_051,Defensa,30,0,0,0,Victoria,0.5,May,Wednesday,3
+8008,2025-05-30,Real Andina,Jugador_058,Defensa,90,0,0,0,Victoria,1.5,May,Friday,5
+8450,2025-06-08,Real Andina,Jugador_004,Arquero,60,0,0,1,Derrota,1.0,June,Sunday,7
+8327,2025-06-08,Real Andina,Jugador_058,Arquero,75,0,0,1,Victoria,1.25,June,Sunday,7
+8159,2025-06-08,Real Andina,Jugador_028,Arquero,90,0,0,0,Victoria,1.5,June,Sunday,7
+8150,2025-06-14,Real Andina,Jugador_024,Defensa,60,0,0,0,Empate,1.0,June,Saturday,6
+8446,2025-06-14,Real Andina,Jugador_005,Defensa,90,0,1,1,Victoria,1.5,June,Saturday,6
+8031,2025-06-17,Real Andina,Jugador_013,Mediocampista,90,0,0,0,Derrota,1.5,June,Tuesday,2
+8464,2025-06-20,Real Andina,Jugador_052,Arquero,45,0,0,0,Empate,0.75,June,Friday,5
+8313,2025-06-23,Real Andina,Jugador_016,Defensa,45,0,0,0,Victoria,0.75,June,Monday,1
+8245,2025-07-02,Real Andina,Jugador_009,Defensa,30,0,0,2,Derrota,0.5,July,Wednesday,3
+8085,2025-07-05,Real Andina,Jugador_012,Mediocampista,90,0,0,0,Derrota,1.5,July,Saturday,6
+8361,2025-07-08,Real Andina,Jugador_025,Mediocampista,90,0,1,0,Derrota,1.5,July,Tuesday,2
+8011,2025-07-11,Real Andina,Jugador_008,Mediocampista,60,0,0,0,Victoria,1.0,July,Friday,5
+8119,2025-07-11,Real Andina,Jugador_039,Defensa,90,0,0,0,Victoria,1.5,July,Friday,5
+8242,2025-07-14,Real Andina,Jugador_033,Defensa,60,0,0,0,Empate,1.0,July,Monday,1
+8209,2025-07-14,Real Andina,Jugador_049,Defensa,90,0,0,0,Victoria,1.5,July,Monday,1
+8223,2025-07-14,Real Andina,Jugador_002,Mediocampista,45,0,1,0,Derrota,0.75,July,Monday,1
+8049,2025-07-17,Real Andina,Jugador_044,Arquero,90,0,0,0,Victoria,1.5,July,Thursday,4
+8421,2025-07-17,Real Andina,Jugador_035,Arquero,60,0,0,0,Derrota,1.0,July,Thursday,4
+8457,2025-07-20,Real Andina,Jugador_038,Arquero,90,0,0,2,Derrota,1.5,July,Sunday,7
+8023,2025-07-20,Real Andina,Jugador_010,Mediocampista,90,0,0,0,Empate,1.5,July,Sunday,7
+8291,2025-07-26,Real Andina,Jugador_056,Mediocampista,45,0,1,1,Empate,0.75,July,Saturday,6
+8299,2025-07-26,Real Andina,Jugador_019,Defensa,75,0,1,1,Victoria,1.25,July,Saturday,6
+8359,2025-07-29,Real Andina,Jugador_051,Arquero,60,0,0,0,Empate,1.0,July,Tuesday,2
+8241,2025-08-10,Real Andina,Jugador_006,Defensa,90,0,0,0,Victoria,1.5,August,Sunday,7
+8105,2025-08-10,Real Andina,Jugador_019,Arquero,75,0,0,0,Empate,1.25,August,Sunday,7
+8193,2025-08-13,Real Andina,Jugador_011,Defensa,90,0,0,0,Victoria,1.5,August,Wednesday,3
+8279,2025-08-16,Real Andina,Jugador_056,Defensa,90,0,0,0,Victoria,1.5,August,Saturday,6
+8430,2025-08-31,Real Andina,Jugador_059,Defensa,45,0,0,0,Victoria,0.75,August,Sunday,7
+8499,2025-09-12,Real Andina,Jugador_056,Arquero,45,0,0,0,Derrota,0.75,September,Friday,5
+8360,2025-09-27,Real Andina,Jugador_038,Arquero,60,0,0,0,Derrota,1.0,September,Saturday,6
+8272,2025-10-03,Real Andina,Jugador_002,Arquero,30,0,0,2,Empate,0.5,October,Friday,5
+8443,2025-10-03,Real Andina,Jugador_017,Arquero,90,0,0,0,Empate,1.5,October,Friday,5
+8491,2025-10-09,Real Andina,Jugador_035,Arquero,90,0,0,0,Empate,1.5,October,Thursday,4
+8338,2025-10-12,Real Andina,Jugador_051,Defensa,90,0,0,2,Victoria,1.5,October,Sunday,7
+8130,2025-10-15,Real Andina,Jugador_016,Mediocampista,90,0,1,0,Derrota,1.5,October,Wednesday,3
+8126,2025-10-24,Real Andina,Jugador_018,Delantero,75,0,0,0,Victoria,1.25,October,Friday,5
+8286,2025-10-27,Real Andina,Jugador_029,Arquero,90,0,0,0,Victoria,1.5,October,Monday,1
+8436,2025-10-27,Real Andina,Jugador_035,Mediocampista,90,0,1,0,Derrota,1.5,October,Monday,1
+8117,2025-11-08,Real Andina,Jugador_042,Delantero,90,0,0,1,Victoria,1.5,November,Saturday,6
+8115,2025-11-11,Real Andina,Jugador_047,Delantero,90,0,0,0,Empate,1.5,November,Tuesday,2
+8307,2025-11-11,Real Andina,Jugador_024,Defensa,45,0,0,0,Derrota,0.75,November,Tuesday,2
+8354,2025-11-11,Real Andina,Jugador_022,Arquero,30,0,0,1,Derrota,0.5,November,Tuesday,2
+8267,2025-11-17,Real Andina,Jugador_010,Defensa,60,0,0,1,Derrota,1.0,November,Monday,1
+8056,2025-11-26,Real Andina,Jugador_058,Arquero,60,0,0,0,Empate,1.0,November,Wednesday,3
+8004,2025-08-10,Tigres del Sur,Jugador_048,Delantero,60,4,0,0,Victoria,1.0,August,Sunday,7
+8164,2025-08-31,Tigres del Sur,Jugador_051,Mediocampista,90,2,0,1,Victoria,1.5,August,Sunday,7
+8065,2025-10-18,Tigres del Sur,Jugador_040,Mediocampista,90,2,0,0,Victoria,1.5,October,Saturday,6
+8331,2025-03-04,Tigres del Sur,Jugador_002,Delantero,45,1,0,0,Victoria,0.75,March,Tuesday,2
+8171,2025-03-31,Tigres del Sur,Jugador_058,Delantero,30,1,1,0,Derrota,0.5,March,Monday,1
+8080,2025-04-06,Tigres del Sur,Jugador_003,Mediocampista,30,1,1,0,Empate,0.5,April,Sunday,7
+8138,2025-05-09,Tigres del Sur,Jugador_055,Delantero,75,1,1,0,Empate,1.25,May,Friday,5
+8333,2025-05-24,Tigres del Sur,Jugador_037,Mediocampista,75,1,2,0,Victoria,1.25,May,Saturday,6
+8084,2025-05-27,Tigres del Sur,Jugador_056,Delantero,90,1,0,0,Derrota,1.5,May,Tuesday,2
+8106,2025-06-05,Tigres del Sur,Jugador_030,Delantero,75,1,0,0,Derrota,1.25,June,Thursday,4
+8370,2025-07-11,Tigres del Sur,Jugador_043,Defensa,30,1,0,0,Derrota,0.5,July,Friday,5
+8465,2025-08-10,Tigres del Sur,Jugador_052,Delantero,90,1,0,0,Victoria,1.5,August,Sunday,7
+8066,2025-08-28,Tigres del Sur,Jugador_040,Delantero,60,1,1,0,Empate,1.0,August,Thursday,4
+8005,2025-08-28,Tigres del Sur,Jugador_018,Delantero,90,1,1,1,Derrota,1.5,August,Thursday,4
+8037,2025-09-15,Tigres del Sur,Jugador_046,Mediocampista,90,1,2,0,Victoria,1.5,September,Monday,1
+8281,2025-09-21,Tigres del Sur,Jugador_013,Mediocampista,45,1,0,0,Victoria,0.75,September,Sunday,7
+8047,2025-11-02,Tigres del Sur,Jugador_002,Mediocampista,90,1,1,0,Empate,1.5,November,Sunday,7
+8235,2025-11-02,Tigres del Sur,Jugador_016,Mediocampista,30,1,0,0,Empate,0.5,November,Sunday,7
+8162,2025-11-02,Tigres del Sur,Jugador_007,Delantero,90,1,0,1,Victoria,1.5,November,Sunday,7
+8472,2025-11-29,Tigres del Sur,Jugador_059,Delantero,60,1,0,0,Empate,1.0,November,Saturday,6
+8269,2025-03-01,Tigres del Sur,Jugador_038,Arquero,75,0,0,0,Victoria,1.25,March,Saturday,6
+8214,2025-03-04,Tigres del Sur,Jugador_007,Mediocampista,30,0,0,0,Empate,0.5,March,Tuesday,2
+8298,2025-03-04,Tigres del Sur,Jugador_039,Delantero,45,0,1,0,Empate,0.75,March,Tuesday,2
+8374,2025-03-13,Tigres del Sur,Jugador_037,Mediocampista,60,0,0,0,Empate,1.0,March,Thursday,4
+8006,2025-03-13,Tigres del Sur,Jugador_017,Delantero,90,0,0,0,Victoria,1.5,March,Thursday,4
+8466,2025-03-19,Tigres del Sur,Jugador_028,Arquero,90,0,0,0,Victoria,1.5,March,Wednesday,3
+8304,2025-03-19,Tigres del Sur,Jugador_045,Arquero,75,0,0,0,Victoria,1.25,March,Wednesday,3
+8427,2025-03-19,Tigres del Sur,Jugador_002,Arquero,30,0,0,1,Victoria,0.5,March,Wednesday,3
+8002,2025-03-22,Tigres del Sur,Jugador_029,Arquero,90,0,0,1,Victoria,1.5,March,Saturday,6
+8101,2025-03-22,Tigres del Sur,Jugador_021,Defensa,90,0,0,0,Victoria,1.5,March,Saturday,6
+8295,2025-03-25,Tigres del Sur,Jugador_013,Arquero,45,0,0,0,Victoria,0.75,March,Tuesday,2
+8371,2025-03-25,Tigres del Sur,Jugador_028,Defensa,90,0,0,1,Victoria,1.5,March,Tuesday,2
+8351,2025-03-28,Tigres del Sur,Jugador_002,Delantero,90,0,0,0,Derrota,1.5,March,Friday,5
+8063,2025-04-03,Tigres del Sur,Jugador_055,Arquero,75,0,0,1,Empate,1.25,April,Thursday,4
+8483,2025-04-12,Tigres del Sur,Jugador_025,Defensa,60,0,0,0,Derrota,1.0,April,Saturday,6
+8230,2025-04-12,Tigres del Sur,Jugador_054,Arquero,45,0,0,0,Victoria,0.75,April,Saturday,6
+8052,2025-04-18,Tigres del Sur,Jugador_050,Defensa,90,0,0,0,Derrota,1.5,April,Friday,5
+8142,2025-04-24,Tigres del Sur,Jugador_021,Mediocampista,60,0,1,0,Victoria,1.0,April,Thursday,4
+8123,2025-04-27,Tigres del Sur,Jugador_036,Defensa,60,0,0,0,Empate,1.0,April,Sunday,7
+8408,2025-04-30,Tigres del Sur,Jugador_014,Mediocampista,45,0,0,1,Empate,0.75,April,Wednesday,3
+8243,2025-05-03,Tigres del Sur,Jugador_031,Arquero,90,0,0,0,Victoria,1.5,May,Saturday,6
+8200,2025-05-09,Tigres del Sur,Jugador_060,Defensa,90,0,0,0,Derrota,1.5,May,Friday,5
+8435,2025-05-09,Tigres del Sur,Jugador_041,Defensa,60,0,0,1,Victoria,1.0,May,Friday,5
+8317,2025-05-09,Tigres del Sur,Jugador_028,Arquero,45,0,0,0,Victoria,0.75,May,Friday,5
+8098,2025-05-12,Tigres del Sur,Jugador_038,Mediocampista,90,0,2,0,Derrota,1.5,May,Monday,1
+8334,2025-05-18,Tigres del Sur,Jugador_043,Mediocampista,90,0,1,0,Victoria,1.5,May,Sunday,7
+8188,2025-05-24,Tigres del Sur,Jugador_041,Arquero,60,0,0,0,Derrota,1.0,May,Saturday,6
+8481,2025-05-30,Tigres del Sur,Jugador_021,Mediocampista,75,0,0,0,Derrota,1.25,May,Friday,5
+8058,2025-05-30,Tigres del Sur,Jugador_016,Delantero,30,0,0,0,Victoria,0.5,May,Friday,5
+8048,2025-05-30,Tigres del Sur,Jugador_054,Arquero,60,0,0,0,Victoria,1.0,May,Friday,5
+8003,2025-05-30,Tigres del Sur,Jugador_041,Mediocampista,30,0,0,0,Empate,0.5,May,Friday,5
+8210,2025-06-02,Tigres del Sur,Jugador_022,Arquero,90,0,0,0,Derrota,1.5,June,Monday,1
+8019,2025-06-05,Tigres del Sur,Jugador_032,Mediocampista,30,0,0,0,Derrota,0.5,June,Thursday,4
+8139,2025-06-17,Tigres del Sur,Jugador_045,Mediocampista,30,0,0,0,Empate,0.5,June,Tuesday,2
+8478,2025-06-20,Tigres del Sur,Jugador_005,Arquero,45,0,0,0,Derrota,0.75,June,Friday,5
+8121,2025-06-23,Tigres del Sur,Jugador_037,Delantero,90,0,0,0,Victoria,1.5,June,Monday,1
+8146,2025-06-29,Tigres del Sur,Jugador_038,Defensa,60,0,0,1,Empate,1.0,June,Sunday,7
+8044,2025-06-29,Tigres del Sur,Jugador_022,Defensa,90,0,0,1,Derrota,1.5,June,Sunday,7
+8185,2025-06-29,Tigres del Sur,Jugador_011,Delantero,90,0,1,1,Derrota,1.5,June,Sunday,7
+8059,2025-07-05,Tigres del Sur,Jugador_051,Mediocampista,90,0,0,0,Derrota,1.5,July,Saturday,6
+8442,2025-07-05,Tigres del Sur,Jugador_032,Defensa,90,0,0,1,Derrota,1.5,July,Saturday,6
+8107,2025-07-11,Tigres del Sur,Jugador_055,Arquero,75,0,0,1,Empate,1.25,July,Friday,5
+8102,2025-07-17,Tigres del Sur,Jugador_048,Delantero,90,0,0,1,Victoria,1.5,July,Thursday,4
+8204,2025-07-20,Tigres del Sur,Jugador_004,Defensa,30,0,0,0,Victoria,0.5,July,Sunday,7
+8122,2025-07-23,Tigres del Sur,Jugador_027,Mediocampista,30,0,0,0,Victoria,0.5,July,Wednesday,3
+8163,2025-07-26,Tigres del Sur,Jugador_017,Delantero,90,0,1,2,Victoria,1.5,July,Saturday,6
+8289,2025-07-29,Tigres del Sur,Jugador_060,Arquero,90,0,0,0,Victoria,1.5,July,Tuesday,2
+8076,2025-07-29,Tigres del Sur,Jugador_057,Defensa,90,0,0,1,Victoria,1.5,July,Tuesday,2
+8127,2025-08-07,Tigres del Sur,Jugador_009,Mediocampista,90,0,0,0,Derrota,1.5,August,Thursday,4
+8114,2025-08-07,Tigres del Sur,Jugador_029,Delantero,60,0,0,0,Derrota,1.0,August,Thursday,4
+8074,2025-08-10,Tigres del Sur,Jugador_026,Mediocampista,30,0,1,0,Victoria,0.5,August,Sunday,7
+8040,2025-08-13,Tigres del Sur,Jugador_038,Defensa,60,0,0,0,Victoria,1.0,August,Wednesday,3
+8152,2025-08-22,Tigres del Sur,Jugador_024,Delantero,45,0,0,0,Empate,0.75,August,Friday,5
+8431,2025-08-22,Tigres del Sur,Jugador_004,Mediocampista,90,0,0,0,Empate,1.5,August,Friday,5
+8256,2025-08-25,Tigres del Sur,Jugador_014,Mediocampista,45,0,0,0,Derrota,0.75,August,Monday,1
+8288,2025-08-31,Tigres del Sur,Jugador_017,Defensa,45,0,0,1,Derrota,0.75,August,Sunday,7
+8377,2025-09-03,Tigres del Sur,Jugador_010,Delantero,45,0,2,0,Derrota,0.75,September,Wednesday,3
+8103,2025-09-03,Tigres del Sur,Jugador_004,Arquero,30,0,0,1,Derrota,0.5,September,Wednesday,3
+8208,2025-09-15,Tigres del Sur,Jugador_008,Arquero,90,0,0,2,Victoria,1.5,September,Monday,1
+8362,2025-09-15,Tigres del Sur,Jugador_053,Arquero,60,0,0,1,Victoria,1.0,September,Monday,1
+8500,2025-09-27,Tigres del Sur,Jugador_033,Arquero,30,0,0,0,Victoria,0.5,September,Saturday,6
+8097,2025-09-27,Tigres del Sur,Jugador_053,Mediocampista,90,0,1,1,Victoria,1.5,September,Saturday,6
+8325,2025-09-27,Tigres del Sur,Jugador_005,Defensa,90,0,0,0,Derrota,1.5,September,Saturday,6
+8024,2025-09-30,Tigres del Sur,Jugador_032,Arquero,60,0,0,0,Victoria,1.0,September,Tuesday,2
+8197,2025-10-03,Tigres del Sur,Jugador_025,Mediocampista,45,0,0,1,Empate,0.75,October,Friday,5
+8323,2025-10-03,Tigres del Sur,Jugador_054,Mediocampista,90,0,0,0,Victoria,1.5,October,Friday,5
+8079,2025-10-06,Tigres del Sur,Jugador_012,Arquero,45,0,0,0,Empate,0.75,October,Monday,1
+8070,2025-10-12,Tigres del Sur,Jugador_015,Delantero,90,0,0,1,Derrota,1.5,October,Sunday,7
+8328,2025-10-15,Tigres del Sur,Jugador_035,Defensa,90,0,0,0,Derrota,1.5,October,Wednesday,3
+8027,2025-10-24,Tigres del Sur,Jugador_010,Delantero,60,0,1,1,Victoria,1.0,October,Friday,5
+8434,2025-11-02,Tigres del Sur,Jugador_046,Defensa,45,0,0,0,Derrota,0.75,November,Sunday,7
+8415,2025-11-20,Tigres del Sur,Jugador_039,Defensa,75,0,0,0,Derrota,1.25,November,Thursday,4
+8250,2025-11-29,Tigres del Sur,Jugador_015,Defensa,90,0,0,0,Victoria,1.5,November,Saturday,6
