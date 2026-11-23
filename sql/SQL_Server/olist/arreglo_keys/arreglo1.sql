@@ -175,7 +175,6 @@ FOREIGN KEY (seller_id)
 REFERENCES dbo.sellers(seller_id);
 GO
 
-
 /* =====================================================
    PASO 4: CREAR TABLA AUXILIAR DE CODIGOS POSTALES
    ===================================================== */

@@ -6,6 +6,7 @@
 USE Olist;
 GO
 
+
 BULK INSERT dbo.customers
 FROM '/tmp/olist_csv/customers.csv'
 WITH (
@@ -16,7 +17,6 @@ WITH (
     KEEPNULLS,
     TABLOCK
 );
-
 
 
 -- GEOLOCATION
